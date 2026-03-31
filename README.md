@@ -19,10 +19,8 @@ The throat area ($A_t$) was derived using the thrust equation:
 $$F = P_c \cdot A_t \cdot C_f$$
 Where $C_f$ is the thrust coefficient, approximated to $1.3$.
 
-For the expansion ratio ($\epsilon = A_e / A_t$), we calculated:
-$\epsilon = *4*
-Resulting in an exit area ($A_e$) of:
-$A_e = *1846,16 mm^2*
+For the expansion ratio ($\epsilon = A_e / A_t$), we calculated: *4*
+Resulting in an exit area ($A_e$) of: *1846,16 mm^2*
 
 ---
 
