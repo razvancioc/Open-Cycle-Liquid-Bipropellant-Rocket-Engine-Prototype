@@ -1,7 +1,7 @@
 # Open-Cycle-Liquid-Bipropellant-Rocket-Engine-Prototype
 
 ![Status: Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-orange)
-![Type: Bipropellant](https://img.shields.io/badge/Propellants-Ethanol%20%2B%20LOX%GOX-blue)
+![Type: Bipropellant](https://img.shields.io/badge/Propellants-Ethanol%20%2B%20LOX%2FGOX-blue)
 ## Overview
 This repository documents the ongoing design, engineering, and manufacturing process of a liquid bipropellant rocket engine prototype. The engine utilizes an open-cycle configuration (blowdown system) chosen for its manufacturability and reliability during the prototyping phase. The primary objective is to successfully design, assemble, and static-fire the engine, serving as a comprehensive learning platform for propulsion engineering, fluid dynamics, and high-pressure system safety.
 
