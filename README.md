@@ -92,7 +92,7 @@ Before moving to expensive metal machining, the engine's core components (inject
 * Verify the assembly sequence and tool accessibility.
 
 <p align="center">
-  <img src="Media/3D_printed_prototype" alt="3D Printed Rocket Engine Prototype" width="600"/>
+  <img src="Media/3D_printed_prototype" alt="3D Printed Rocket Engine Prototype" width="800"/>
   <br>
   <em>Figure 1: 3D printed plastic prototype used for physical design validation and assembly testing.</em>
 </p>
