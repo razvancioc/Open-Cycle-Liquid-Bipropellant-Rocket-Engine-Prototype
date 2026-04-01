@@ -96,7 +96,7 @@ Before moving to expensive metal machining, the engine's core components (inject
   <br>
   <em>Figure 1: 3D printed plastic prototype used for physical design validation and assembly testing.</em>
 </p>
-![3D_printed_prototype](https://github.com/user-attachments/assets/63cf4ad7-e511-4de1-892a-24e4ca2326c3)
+![image](https://github.com/user-attachments/assets/63cf4ad7-e511-4de1-892a-24e4ca2326c3)
 
 
 ---
