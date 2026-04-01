@@ -84,7 +84,7 @@ The engine core consists of three main machined parts: the Injector Cap, the Inj
 
 ---
 
-## 🛠️ Prototyping & Manufacturing
+## Prototyping & Manufacturing
 
 Before moving to expensive metal machining, the engine's core components (injector, chamber, and nozzle) were 3D printed in plastic. This crucial step allows us to:
 * Validate the CAD geometry in the real world.
