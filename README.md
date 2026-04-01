@@ -91,7 +91,11 @@ Before moving to expensive metal machining, the engine's core components (inject
 * Check tolerances for mating surfaces and fastener alignment.
 * Verify the assembly sequence and tool accessibility.
 
-<img src="Media/3D_printed_prototype.jpg" alt="3D Printed Rocket Engine Prototype" width="800"/>
+<p align="center">
+  <img src="" alt="3D Printed Rocket Engine Prototype" width="800"/>
+  <br>
+  <em>Figure 1: 3D printed plastic prototype used for physical design validation and assembly testing.</em>
+</p>
 
 ---
 
