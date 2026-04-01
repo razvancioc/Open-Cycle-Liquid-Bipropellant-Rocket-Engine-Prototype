@@ -19,7 +19,9 @@ Here is the current CAD design of the combustion chamber, nozzle throat, and inj
   <br>
   <em>Figure 2: Sectional view showing internal geometry of the combustion chamber and nozzle.</em>
 </p>
+
 ---
+
 ## Target Technical Specifications
 The core thermodynamic calculations define the geometry of the engine based on the desired thrust.
 
@@ -81,6 +83,7 @@ The engine core consists of three main machined parts: the Injector Cap, the Inj
 * **Sealing:** Solid copper crush gaskets (O-rings) placed between the three main mating surfaces to ensure high-pressure gas sealing.
 
 ---
+
 ## 🛠️ Prototyping & Manufacturing
 
 Before moving to expensive metal machining, the engine's core components (injector, chamber, and nozzle) were 3D printed in plastic. This crucial step allows us to:
@@ -93,6 +96,8 @@ Before moving to expensive metal machining, the engine's core components (inject
   <br>
   <em>Figure 1: 3D printed plastic prototype used for physical design validation and assembly testing.</em>
 </p>
+
 ---
+
 ## ⚠️ Safety Disclaimer
 **This is a high-risk engineering project.** It involves handling highly pressurized gases (up to 200 bar), cryogenic/reactive oxidizers, and extreme combustion temperatures. All design decisions prioritize safety. Test stand operations will strictly utilize remote firing systems and physical blast barriers. Do not attempt to replicate this system without proper engineering oversight and strict adherence to local safety regulations.
