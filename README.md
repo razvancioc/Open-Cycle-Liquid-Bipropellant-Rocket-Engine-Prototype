@@ -5,6 +5,21 @@
 ## Overview
 This repository documents the ongoing design, engineering, and manufacturing process of a liquid bipropellant rocket engine prototype. The engine utilizes an open-cycle configuration (blowdown system) chosen for its manufacturability and reliability during the prototyping phase. The primary objective is to successfully design, assemble, and static-fire the engine, serving as a comprehensive learning platform for propulsion engineering, fluid dynamics, and high-pressure system safety.
 
+## CAD Design & Engineering Drawings
+Here is the current CAD design of the combustion chamber, nozzle throat, and injector assembly.
+
+<p align="center">
+  <img src="Media/cad_model.png" alt="Rocket Engine CAD Model" width="600"/>
+  <br>
+  <em>Figure 1: Full isometric view of the engine assembly.</em>
+</p>
+
+<p align="center">
+  <img src="Media/cad_section.png" alt="Rocket Engine Cross Section" width="600"/>
+  <br>
+  <em>Figure 2: Sectional view showing internal geometry of the combustion chamber and nozzle.</em>
+</p>
+
 ## Target Technical Specifications
 The core thermodynamic calculations define the geometry of the engine based on the desired thrust.
 
