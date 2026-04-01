@@ -92,11 +92,11 @@ Before moving to expensive metal machining, the engine's core components (inject
 * Verify the assembly sequence and tool accessibility.
 
 <p align="center">
-  <img src="https://github.com/razvancioc/Open-Cycle-Liquid-Bipropellant-Rocket-Engine-Prototype/raw/main" alt="3D Printed Rocket Engine Prototype" width="800"/>
+  <img src="https://github.com/user-attachments/assets/63cf4ad7-e511-4de1-892a-24e4ca2326c3" alt="3D Printed Rocket Engine Prototype" width="800"/>
   <br>
   <em>Figure 1: 3D printed plastic prototype used for physical design validation and assembly testing.</em>
 </p>
-![image](https://github.com/user-attachments/assets/63cf4ad7-e511-4de1-892a-24e4ca2326c3)
+
 
 
 ---
