@@ -19,7 +19,7 @@ Here is the current CAD design of the combustion chamber, nozzle throat, and inj
   <br>
   <em>Figure 2: Sectional view showing internal geometry of the combustion chamber and nozzle.</em>
 </p>
-
+---
 ## Target Technical Specifications
 The core thermodynamic calculations define the geometry of the engine based on the desired thrust.
 
@@ -63,7 +63,7 @@ The feed system uses a pressurized nitrogen blowdown mechanism to force propella
 8. Oxygen Pressure Transducer
 9. Thermocouples (Throat & Chamber)
 10. Chamber Pressure Transducer (Post-Injector)
-
+---
 ### Hardware & Materials Selection
 * **Ethanol Feed Lines:** 1SN hydraulic hoses with metal wire braiding for superior pressure resistance.
 * **Oxygen Feed Lines:** Teflon (PTFE) core hoses with stainless steel outer braiding to ensure material compatibility and prevent oxidation hazards.
@@ -81,6 +81,18 @@ The engine core consists of three main machined parts: the Injector Cap, the Inj
 * **Sealing:** Solid copper crush gaskets (O-rings) placed between the three main mating surfaces to ensure high-pressure gas sealing.
 
 ---
+## 🛠️ Prototyping & Manufacturing
 
+Before moving to expensive metal machining, the engine's core components (injector, chamber, and nozzle) were 3D printed in plastic. This crucial step allows us to:
+* Validate the CAD geometry in the real world.
+* Check tolerances for mating surfaces and fastener alignment.
+* Verify the assembly sequence and tool accessibility.
+
+<p align="center">
+  <img src="Media/nume_poza_print_3d.jpg" alt="3D Printed Rocket Engine Prototype" width="600"/>
+  <br>
+  <em>Figure 1: 3D printed plastic prototype used for physical design validation and assembly testing.</em>
+</p>
+---
 ## ⚠️ Safety Disclaimer
 **This is a high-risk engineering project.** It involves handling highly pressurized gases (up to 200 bar), cryogenic/reactive oxidizers, and extreme combustion temperatures. All design decisions prioritize safety. Test stand operations will strictly utilize remote firing systems and physical blast barriers. Do not attempt to replicate this system without proper engineering oversight and strict adherence to local safety regulations.
