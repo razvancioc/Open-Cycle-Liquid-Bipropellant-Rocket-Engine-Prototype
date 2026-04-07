@@ -73,7 +73,7 @@ The feed system uses a pressurized nitrogen blowdown mechanism to force propella
 * **Fittings & Connections:** AN-6 to 1/2" NPT steel adapters and high-pressure stainless check valves.
 
 <p align="center">
-  <b>Full BOM: <a href="">Click here to see it</a></b>
+  <b>Full BOM: <a href="https://github.com/razvancioc/Open-Cycle-Liquid-Bipropellant-Rocket-Engine-Prototype/blob/main/BOM.md">Click here to see it</a></b>
 </p>
  
 ---
