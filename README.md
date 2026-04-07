@@ -25,10 +25,10 @@ Here is the current CAD design of the combustion chamber, nozzle throat, and inj
 ## Target Technical Specifications
 The core thermodynamic calculations define the geometry of the engine based on the desired thrust.
 
-* **Target Thrust ($F$): *1,8 kN* 
+* **Target Thrust ($F$):** *1,8 kN* 
 * **Propellants:** Ethanol (Fuel) & Oxygen (Oxidizer)
 * **Pressurant Gas:** Nitrogen ($N_2$)
-* **Target Chamber Pressure ($P_c$): *30 bar* 
+* **Target Chamber Pressure ($P_c$):** *30 bar* 
 
 ### Core Equations Used for Geometry
 The throat area ($A_t$) was derived using the thrust equation:
@@ -72,6 +72,10 @@ The feed system uses a pressurized nitrogen blowdown mechanism to force propella
 * **Main Control Valves:** Custom-actuated 1/2" DN15 stainless steel ball valves (PN63 rated). *Crucial Note: These are 3-piece valves to allow complete disassembly and cleaning (oxygen-safe degreasing), replacing standard rubber O-rings with oxygen-compatible seals to prevent spontaneous combustion.*
 * **Fittings & Connections:** AN-6 to 1/2" NPT steel adapters and high-pressure stainless check valves.
 
+<p align="center">
+  <b>Full BOM: <a href="">Click here to see it</a></b>
+</p>
+ 
 ---
 
 ## Mechanical Assembly & Sealing
@@ -94,7 +98,7 @@ Before moving to expensive metal machining, the engine's core components (inject
 <p align="center">
   <img src="https://github.com/user-attachments/assets/63cf4ad7-e511-4de1-892a-24e4ca2326c3" alt="3D Printed Rocket Engine Prototype" width="800"/>
   <br>
-  <em>Figure 1: 3D printed plastic prototype used for physical design validation and assembly testing.</em>
+  <em>Figure 3: 3D printed plastic prototype used for physical design validation and assembly testing.</em>
 </p>
 
 
